@@ -70,7 +70,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <telegrambots.version>5.0.1</telegrambots.version>
+        <telegrambots.version>5.2.0</telegrambots.version>
         <spring-boot.version>2.3.5.RELEASE</spring-boot.version>
         <assertj-core.version>3.18.0</assertj-core.version>
 
@@ -244,7 +244,7 @@
                 </executions>
                 <configuration>
                     <rules>
-                        <DependencyConvergence />
+                        <DependencyConvergence/>
                     </rules>
                 </configuration>
             </plugin>
